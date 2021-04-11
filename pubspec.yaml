@@ -1,7 +1,0 @@
-name: my_app
-flutter:
-  uses-material-design: true
-
-#allows you to use the predefined set of Material icons.
-
-
